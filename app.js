@@ -5,7 +5,7 @@ import bodyParser from "body-parser";
 
 import Expo from "expo-server-sdk"
 
-const app = express();
+const app = express(); 
 const port = 8000;
 
 const expo = new Expo()
